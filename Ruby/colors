@@ -1,0 +1,9 @@
+colors = green, red, blue	
+
+sum =
+
+for color in colors
+
+puts color
+
+end
